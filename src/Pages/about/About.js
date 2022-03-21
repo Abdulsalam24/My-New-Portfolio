@@ -30,14 +30,14 @@ const About = () => {
             </ul>
           </div>
         </div>
-        <div className="abt-img">
+        {/* <div className="abt-img">
           <div className="img-border">
             <div className="img">
               <img src={profile} alt="" />
               <div className="thumbnail"></div>
             </div>
           </div>
-        </div>
+        </div> */}
       </div>
     </section>
   )

@@ -12,17 +12,17 @@ const Header = () => {
                     <h2>Abdulsalam mohammed</h2>
                     <p className='leading-p'>I, am a <Typical
                           className='typical'
-                          loop={Infinity}
+                          loop={1}
                           wrapper="b"
                           steps={[
-                            'FrontEnd Developer', 2000, 'Graphic Designer', 1000
+                            'FrontEnd Developer', 2000
                             ]}
                           />
                     </p>
                     <div className="text">
 
                         <div className="btn">
-                            <button>Check out my Work</button>
+                            <button><a href="#project">Check out my Work</a></button>
                         </div>
                     </div>
                 </div>

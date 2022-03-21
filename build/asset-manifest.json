@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7f8e47d2.chunk.css",
+    "main.js": "/static/js/main.82004010.chunk.js",
+    "main.js.map": "/static/js/main.82004010.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8686503b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8686503b.js.map",
+    "static/css/2.ae9e5f60.chunk.css": "/static/css/2.ae9e5f60.chunk.css",
+    "static/js/2.5e088644.chunk.js": "/static/js/2.5e088644.chunk.js",
+    "static/js/2.5e088644.chunk.js.map": "/static/js/2.5e088644.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.ae9e5f60.chunk.css.map": "/static/css/2.ae9e5f60.chunk.css.map",
+    "static/css/main.7f8e47d2.chunk.css.map": "/static/css/main.7f8e47d2.chunk.css.map",
+    "static/js/2.5e088644.chunk.js.LICENSE.txt": "/static/js/2.5e088644.chunk.js.LICENSE.txt",
+    "static/media/Abdulsalam_mohammed_CV_(2).dacdd583.pdf": "/static/media/Abdulsalam_mohammed_CV_(2).dacdd583.pdf",
+    "static/media/profile.ff66119b.JPG": "/static/media/profile.ff66119b.JPG",
+    "static/media/project1.0bbd0daa.PNG": "/static/media/project1.0bbd0daa.PNG",
+    "static/media/project2.7917bc03.PNG": "/static/media/project2.7917bc03.PNG",
+    "static/media/project8.661df7fe.PNG": "/static/media/project8.661df7fe.PNG",
+    "static/media/project9.f3e1c66a.PNG": "/static/media/project9.f3e1c66a.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8686503b.js",
+    "static/css/2.ae9e5f60.chunk.css",
+    "static/js/2.5e088644.chunk.js",
+    "static/css/main.7f8e47d2.chunk.css",
+    "static/js/main.82004010.chunk.js"
+  ]
+}
