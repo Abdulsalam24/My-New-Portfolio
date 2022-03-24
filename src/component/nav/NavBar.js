@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import cv from './Abdulsalam_mohammed_CV_(2).pdf'
+import cv from './abd resume.pdf'
 
 
 const NavBar = () => {
@@ -47,7 +47,7 @@ const NavBar = () => {
               <li><a href='#contact'><span className="green">0.3 </span>Contact</a></li>
             </ul>
             <div className="btn">
-            <button><a href={cv} download>Resume</a></button>
+            <a href={cv} download><button>Resume</button></a>
             </div>
           </div>
           <div className="menu">

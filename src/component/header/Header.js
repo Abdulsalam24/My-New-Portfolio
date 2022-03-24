@@ -20,9 +20,8 @@ const Header = () => {
                           />
                     </p>
                     <div className="text">
-
                         <div className="btn">
-                            <button><a href="#project">Check out my Work</a></button>
+                        <a href="#project"><button>Check out my Work</button></a>
                         </div>
                     </div>
                 </div>
