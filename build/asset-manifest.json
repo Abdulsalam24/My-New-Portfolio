@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.582fab0a.chunk.css",
+    "main.js": "/static/js/main.a9f0c065.chunk.js",
+    "main.js.map": "/static/js/main.a9f0c065.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.900dd88b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.900dd88b.js.map",
+    "static/css/2.30fbed10.chunk.css": "/static/css/2.30fbed10.chunk.css",
+    "static/js/2.aa4aea32.chunk.js": "/static/js/2.aa4aea32.chunk.js",
+    "static/js/2.aa4aea32.chunk.js.map": "/static/js/2.aa4aea32.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.30fbed10.chunk.css.map": "/static/css/2.30fbed10.chunk.css.map",
+    "static/css/main.582fab0a.chunk.css.map": "/static/css/main.582fab0a.chunk.css.map",
+    "static/js/2.aa4aea32.chunk.js.LICENSE.txt": "/static/js/2.aa4aea32.chunk.js.LICENSE.txt",
+    "static/media/abd resume.753db796.pdf": "/static/media/abd resume.753db796.pdf",
+    "static/media/project1.0bbd0daa.PNG": "/static/media/project1.0bbd0daa.PNG",
+    "static/media/project2.7917bc03.PNG": "/static/media/project2.7917bc03.PNG",
+    "static/media/project8.661df7fe.PNG": "/static/media/project8.661df7fe.PNG",
+    "static/media/project9.f3e1c66a.PNG": "/static/media/project9.f3e1c66a.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.900dd88b.js",
+    "static/css/2.30fbed10.chunk.css",
+    "static/js/2.aa4aea32.chunk.js",
+    "static/css/main.582fab0a.chunk.css",
+    "static/js/main.a9f0c065.chunk.js"
+  ]
+}

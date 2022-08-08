@@ -9,19 +9,19 @@ const Header = () => {
                     <span className="name green">
                         Hi, my name is
                     </span>
-                    <h2>Abdulsalam mohammed</h2>
+                    <h2>Abdulsalam Mohammed</h2>
                     <p className='leading-p'>I, am a <Typical
-                          className='typical'
-                          loop={1}
-                          wrapper="b"
-                          steps={[
-                            'FrontEnd Developer', 2000
-                            ]}
-                          />
+                        className='typical'
+                        loop={1}
+                        wrapper="b"
+                        steps={[
+                            'Frontend Developer', 2000
+                        ]}
+                    />
                     </p>
                     <div className="text">
                         <div className="btn">
-                        <a href="#project"><button>Check out my Work</button></a>
+                            <a href="#project"><button>Check out my Work</button></a>
                         </div>
                     </div>
                 </div>
