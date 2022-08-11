@@ -17,7 +17,7 @@ export const ProjectData = [
         review : 'Review',
         img : project9,
         link : 'https://abdmoviesort.netlify.app/',
-        gitHub : ''
+        gitHub : 'https://github.com/Abdulsalam24/Movie-sort'
     },
     {
         description : 'Ecommerce',
