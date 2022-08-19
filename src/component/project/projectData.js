@@ -2,6 +2,8 @@ import project8 from '../../asset/img/project8.PNG'
 import project9 from '../../asset/img/project9.PNG'
 import project1 from '../../asset/img/project1.PNG'
 import project2 from '../../asset/img/project2.PNG'
+import project3 from '../../asset/img/project3.png'
+
 
 
 export const ProjectData = [
@@ -12,13 +14,26 @@ export const ProjectData = [
         html : 'Html',
         scss : 'Scss',
         react : 'React',
-        // bootstrap : 'Bootstrap',
         git : 'git',
         review : 'Review',
         img : project9,
         link : 'https://abdmoviesort.netlify.app/',
         gitHub : 'https://github.com/Abdulsalam24/Movie-sort'
     },
+    {
+        description : 'Github',
+        title : 'Github Finder',
+        writeUp : 'This is a site I built using context Api and useReducer for the state management. I fetched Api from Github and implemented it. The ideal behind this website is to make Github proifle more accessible and easily to find',
+        html : 'Html',
+        scss : 'Scss',
+        react : 'React',
+        git : 'git',
+        review : 'Review',
+        img : project3,
+        link : 'https://github-finder-zeta-five.vercel.app/',
+        gitHub : 'https://github.com/Abdulsalam24/Github-Finder'
+    },
+
     {
         description : 'Ecommerce',
         title : 'Shopping Cart',
