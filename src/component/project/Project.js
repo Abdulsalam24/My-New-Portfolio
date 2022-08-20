@@ -3,8 +3,6 @@ import { FaGithub } from 'react-icons/fa'
 
 import { FaRegEye } from 'react-icons/fa'
 
-
-
 import { ProjectData } from './projectData'
 
 
@@ -55,12 +53,11 @@ const Project = () => {
                                             <li>{item.bootstrap}</li>
                                         </ul>
                                         <div className="icon flex">
-                                            <a href={item.gitHub}>
+                                            <a href={item.gitHub} target="_blank" rel="noreferrer">
                                                 <i><FaGithub /></i>
-
                                             </a>
-                                            <a href={item.link}>
-                                                <i><FaRegEye/></i>
+                                            <a href={item.link} target="_blank" rel="noreferrer">
+                                                <i><FaRegEye /></i>
                                             </a>
                                         </div>
                                     </div>

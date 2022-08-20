@@ -10,7 +10,7 @@ export const ProjectData = [
     {
         description : 'Movie Sort',
         title : 'Popular Movie',
-        writeUp : 'This is an interesting project because, it has to do with popular latest movie updating itself to the most watched at the time you are on this site.I built this in the space of 2 days by fetching an api and i added framer motion for smooth animations',
+        writeUp : 'This was an interesting project to build,It update by itself to latest movie and  the most watched at the moment.I built this in the space of 2 days, fetching an api and i added framer motion for smooth animations',
         html : 'Html',
         scss : 'Scss',
         react : 'React',
@@ -34,20 +34,20 @@ export const ProjectData = [
         gitHub : 'https://github.com/Abdulsalam24/Github-Finder'
     },
 
-    {
-        description : 'Ecommerce',
-        title : 'Shopping Cart',
-        writeUp : 'This is an E-commerce site built with react-redux.I focused more on getting the whole site to work with the some basic bootstrap for the styling',
-        html : 'Html',
-        scss : 'Scss',
-        react : 'React',
-        bootstrap : 'Bootstrap',
-        git : 'git',
-        review : 'Review',
-        img : project8,
-        link : 'https://abdecommerce.netlify.app/',
-        gitHub : 'https://github.com/Abdulsalam24/E-commerce-with-redux'
-    },
+    // {
+    //     description : 'Ecommerce',
+    //     title : 'Shopping Cart',
+    //     writeUp : 'This is an E-commerce site built with react-redux.I focused more on getting the whole site to work with the some basic bootstrap for the styling',
+    //     html : 'Html',
+    //     scss : 'Scss',
+    //     react : 'React',
+    //     bootstrap : 'Bootstrap',
+    //     git : 'git',
+    //     review : 'Review',
+    //     img : project8,
+    //     link : 'https://abdecommerce.netlify.app/',
+    //     gitHub : 'https://github.com/Abdulsalam24/E-commerce-with-redux'
+    // },
     {
         description : 'Massage Page',
         title : 'Osteopathie',
