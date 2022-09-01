@@ -3,23 +3,12 @@ import project9 from '../../asset/img/project9.PNG'
 import project1 from '../../asset/img/project1.PNG'
 import project2 from '../../asset/img/project2.PNG'
 import project3 from '../../asset/img/project3.png'
+import project4 from '../../asset/img/project4.png'
+
 
 
 
 export const ProjectData = [
-    {
-        description : 'Movie Sort',
-        title : 'Popular Movie',
-        writeUp : 'This was an interesting project to build,It update by itself to latest movie and  the most watched at the moment.I built this in the space of 2 days, fetching an api and i added framer motion for smooth animations',
-        html : 'Html',
-        scss : 'Scss',
-        react : 'React',
-        git : 'git',
-        review : 'Review',
-        img : project9,
-        link : 'https://abdmoviesort.netlify.app/',
-        gitHub : 'https://github.com/Abdulsalam24/Movie-sort'
-    },
     {
         description : 'Github',
         title : 'Github Finder',
@@ -32,6 +21,32 @@ export const ProjectData = [
         img : project3,
         link : 'https://github-finder-zeta-five.vercel.app/',
         gitHub : 'https://github.com/Abdulsalam24/Github-Finder'
+    },
+    {
+        description : 'Product Marketing',
+        title : 'Prosalety',
+        writeUp : 'This is a site you can upload your product and you can be contacted if soemone need the product. I build this site using firbase database and React to build the UI and functionality',
+        html : 'Html',
+        scss : 'Scss',
+        react : 'React',
+        git : 'git',
+        review : 'Review',
+        img : project4,
+        link : 'https://product-marketing-six.vercel.app/',
+        gitHub : 'https://github.com/Abdulsalam24/Product-Marketing'
+    },
+    {
+        description : 'Movie Sort',
+        title : 'Popular Movie',
+        writeUp : 'This was an interesting project to build,It update by itself to latest movie and  the most watched at the moment.I built this in the space of 2 days, fetching an api and i added framer motion for smooth animations',
+        html : 'Html',
+        scss : 'Scss',
+        react : 'React',
+        git : 'git',
+        review : 'Review',
+        img : project9,
+        link : 'https://abdmoviesort.netlify.app/',
+        gitHub : 'https://github.com/Abdulsalam24/Movie-sort'
     },
 
     // {
@@ -60,19 +75,19 @@ export const ProjectData = [
         img : project1,
         link : 'https://abdosteopathiy.netlify.app/',
         gitHub : 'https://github.com/Abdulsalam24/My-OSTEOPATHY-react-project'
-    },
-    {
-        description : 'Figma',
-        title : 'Figma Project',
-        writeUp : 'This is Figma challenge i got from a job challenge to build only the UI.I have very comfortable with build UI so this didnt take much of time',
-        html : 'Html',
-        scss : 'Scss',
-        react : 'React',
-        git : 'git',
-        review : 'Review',
-        img : project2,
-        link : 'https://abdfigmacreat.netlify.app/',
-        gitHub : 'https://github.com/Abdulsalam24/My-OSTEOPATHY-react-project'
     }
+    // {
+    //     description : 'Figma',
+    //     title : 'Figma Project',
+    //     writeUp : 'This is Figma challenge i got from a job challenge to build only the UI.I have very comfortable with build UI so this didnt take much of time',
+    //     html : 'Html',
+    //     scss : 'Scss',
+    //     react : 'React',
+    //     git : 'git',
+    //     review : 'Review',
+    //     img : project2,
+    //     link : 'https://abdfigmacreat.netlify.app/',
+    //     gitHub : 'https://github.com/Abdulsalam24/My-OSTEOPATHY-react-project'
+    // }
 
 ]
