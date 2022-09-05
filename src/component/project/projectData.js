@@ -12,7 +12,7 @@ export const ProjectData = [
     {
         description : 'Github',
         title : 'Github Finder',
-        writeUp : 'This is a site I built using context Api and useReducer for the state management. I fetched Api from Github and implemented it. The ideal behind this website is to make Github proifle more accessible and easily to find',
+        writeUp : 'This is a site I built using context Api and useReducer for the state management. I used Github REST Api for this project. The purpose this website serves is to make Github profile more accessible and easiy to get',
         html : 'Html',
         scss : 'Scss',
         react : 'React',
@@ -25,7 +25,7 @@ export const ProjectData = [
     {
         description : 'Product Marketing',
         title : 'Prosalety',
-        writeUp : 'This is a site you can upload your product and you can be contacted if soemone need the product. I build this site using firbase database and React to build the UI and functionality',
+        writeUp : 'This is a web application i built for upload of product that are for sale. You can also be contacted if soemone want to make enquiry about your product. This site was built using firbase database and React to build the UI and functionality',
         html : 'Html',
         scss : 'Scss',
         react : 'React',
@@ -38,7 +38,7 @@ export const ProjectData = [
     {
         description : 'Movie Sort',
         title : 'Popular Movie',
-        writeUp : 'This was an interesting project to build,It update by itself to latest movie and  the most watched at the moment.I built this in the space of 2 days, fetching an api and i added framer motion for smooth animations',
+        writeUp : 'This is one of my favorite project because i love movies. It update by itself to latest movie and  the most watched at the moment.I built this in the space of 2 days, fetching an api and i added framer motion for smooth animations',
         html : 'Html',
         scss : 'Scss',
         react : 'React',
