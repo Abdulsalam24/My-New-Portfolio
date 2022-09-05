@@ -25,7 +25,7 @@ const Footer = () => {
           <p className='email'>
             <a href="mailto:abdulsalammohammed586686@gmail.com">abdulsalammohammed586686@gmail.com</a>
           </p>
-          <p>Built by Abdulsalam mohammed</p>
+          <p className='last-p'>Built by Abdulsalam mohammed</p>
         </div>
       </div>
     </footer>
