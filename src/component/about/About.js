@@ -12,7 +12,7 @@ const About = () => {
           <div className="text">
 
             <p>
-              I am a Frontend Developer with 2 years experience building User interface with <span className="green">clean and reusable</span> code<br /> using React. I work with <span className="green">latest tool</span> to build a web application and i am experinced working in a team. I always focus on building and pushing a project forward as quick as possible. <br />
+              I am a Frontend Developer with 2 years experience building User interface with <span className="green">clean and reusable</span> code using React. I work with <span className="green">latest tool</span> to build a web application and i am experinced working in a team. I always focus on building and pushing a project forward as quick as possible. <br />
               I am eager and passionate when working on a project to ensure you are very satisfied with the service I render.
             </p>
             <p>Here are some of the tools i am currently working with :</p>
