@@ -22,19 +22,7 @@ export const ProjectData = [
         link : 'https://github-finder-zeta-five.vercel.app/',
         gitHub : 'https://github.com/Abdulsalam24/Github-Finder'
     },
-    {
-        description : 'Product Marketing',
-        title : 'Prosalety',
-        writeUp : 'This is a web application i built for upload of product that are for sale. You can also be contacted if soemone want to make enquiry about your product. This site was built using firbase database and React to build the UI and functionality',
-        html : 'Html',
-        scss : 'Scss',
-        react : 'React',
-        git : 'git',
-        review : 'Review',
-        img : project4,
-        link : 'https://product-marketing-six.vercel.app/',
-        gitHub : 'https://github.com/Abdulsalam24/Product-Marketing'
-    },
+   
     {
         description : 'Movie Sort',
         title : 'Popular Movie',
@@ -47,6 +35,19 @@ export const ProjectData = [
         img : project9,
         link : 'https://abdmoviesort.netlify.app/',
         gitHub : 'https://github.com/Abdulsalam24/Movie-sort'
+    },
+    {
+        description : 'Product Marketing',
+        title : 'Prosalety',
+        writeUp : 'This is a web application i built for upload of product that are for sale. You can also be contacted if soemone want to make enquiry about your product. This site was built using firbase database and React to build the UI and functionality',
+        html : 'Html',
+        scss : 'Scss',
+        react : 'React',
+        git : 'git',
+        review : 'Review',
+        img : project4,
+        link : 'https://product-marketing-six.vercel.app/',
+        gitHub : 'https://github.com/Abdulsalam24/Product-Marketing'
     },
 
     // {
