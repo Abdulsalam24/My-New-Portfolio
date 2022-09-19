@@ -22,7 +22,6 @@ export const ProjectData = [
         link : 'https://github-finder-zeta-five.vercel.app/',
         gitHub : 'https://github.com/Abdulsalam24/Github-Finder'
     },
-   
     {
         description : 'Movie Sort',
         title : 'Popular Movie',
