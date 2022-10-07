@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import cv from './Abdulsalam cv.pdf'
+import cv from './Abdulsalam resume.pdf'
 
 const NavBar = () => {
 

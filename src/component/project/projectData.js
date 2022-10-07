@@ -10,43 +10,43 @@ import project4 from '../../asset/img/project4.png'
 
 export const ProjectData = [
     {
-        description : 'Github',
-        title : 'Github Finder',
-        writeUp : 'This is a site I built using context Api and useReducer for the state management. I used Github REST Api for this project. The purpose this website serves is to make Github profile more accessible and easiy to get',
-        html : 'Html',
-        scss : 'Scss',
-        react : 'React',
-        git : 'git',
-        review : 'Review',
-        img : project3,
-        link : 'https://github-finder-zeta-five.vercel.app/',
-        gitHub : 'https://github.com/Abdulsalam24/Github-Finder'
+        description: 'Movie App',
+        title: 'House of movies',
+        writeUp: 'This is one of my favorite project because i love watching movies. It is a movie where you can search for any movie and check the details. I used context Api to handle the state and framer motion for animation.',
+        html: 'Html',
+        scss: 'Scss',
+        react: 'React',
+        git: 'git',
+        review: 'Review',
+        img: project2,
+        link: 'https://movie-app-peach-omega.vercel.app/',
+        gitHub: 'https://github.com/Abdulsalam24/movie-app'
     },
     {
-        description : 'Movie Sort',
-        title : 'Popular Movie',
-        writeUp : 'This is one of my favorite project because i love movies. It update by itself to latest movie and  the most watched at the moment.I built this in the space of 2 days, fetching an api and i added framer motion for smooth animations',
-        html : 'Html',
-        scss : 'Scss',
-        react : 'React',
-        git : 'git',
-        review : 'Review',
-        img : project9,
-        link : 'https://abdmoviesort.netlify.app/',
-        gitHub : 'https://github.com/Abdulsalam24/Movie-sort'
+        description: 'Github',
+        title: 'Github Finder',
+        writeUp: 'This is a site I built using context Api and useReducer for the state management. I used Github REST Api for this project. The purpose this website serves is to make Github profile more accessible and easiy to get',
+        html: 'Html',
+        scss: 'taiwlind',
+        react: 'React',
+        git: 'git',
+        review: 'Review',
+        img: project3,
+        link: 'https://github-finder-zeta-five.vercel.app/',
+        gitHub: 'https://github.com/Abdulsalam24/Github-Finder'
     },
     {
-        description : 'Product Marketing',
-        title : 'Prosalety',
-        writeUp : 'This is a web application i built for upload of product that are for sale. You can also be contacted if soemone want to make enquiry about your product. This site was built using firbase database and React to build the UI and functionality',
-        html : 'Html',
-        scss : 'Scss',
-        react : 'React',
-        git : 'git',
-        review : 'Review',
-        img : project4,
-        link : 'https://product-marketing-six.vercel.app/',
-        gitHub : 'https://github.com/Abdulsalam24/Product-Marketing'
+        description: 'Product Marketing',
+        title: 'Prosalety',
+        writeUp: 'This is a web application i built for upload of product that are for sale. You can also be contacted if soemone want to make enquiry about your product. This site was built using firbase database and React to build the UI and functionality',
+        html: 'Html',
+        scss: 'Scss',
+        react: 'React',
+        git: 'git',
+        review: 'Review',
+        img: project4,
+        link: 'https://product-marketing-six.vercel.app/',
+        gitHub: 'https://github.com/Abdulsalam24/Product-Marketing'
     },
 
     // {
@@ -64,17 +64,17 @@ export const ProjectData = [
     //     gitHub : 'https://github.com/Abdulsalam24/E-commerce-with-redux'
     // },
     {
-        description : 'Massage Page',
-        title : 'Osteopathie',
-        writeUp : 'Osteopathie is simple massage website i found of the internet. So i decided to recreate it with my code.It was fun to build ヅ',
-        html : 'Html',
-        scss : 'Scss',
-        react : 'React',
-        git : 'git',
-        review : 'Review',
-        img : project1,
-        link : 'https://abdosteopathiy.netlify.app/',
-        gitHub : 'https://github.com/Abdulsalam24/My-OSTEOPATHY-react-project'
+        description: 'Massage Page',
+        title: 'Osteopathie',
+        writeUp: 'Osteopathie is simple massage website i found of the internet. So i decided to recreate it with my code.It was fun to build ヅ',
+        html: 'Html',
+        scss: 'Scss',
+        react: 'React',
+        git: 'git',
+        review: 'Review',
+        img: project1,
+        link: 'https://abdosteopathiy.netlify.app/',
+        gitHub: 'https://github.com/Abdulsalam24/My-OSTEOPATHY-react-project'
     }
     // {
     //     description : 'Figma',

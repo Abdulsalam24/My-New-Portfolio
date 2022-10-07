@@ -46,10 +46,10 @@ const Project = () => {
                                             </p>
                                         </div>
                                         <ul className="lang-type flex">
-                                            <li>{item.html}</li>
-                                            <li>{item.scss}</li>
                                             <li>{item.react}</li>
+                                            <li>{item.scss}</li>
                                             <li>{item.redux}</li>
+                                            <li>{item.html}</li>
                                             <li>{item.bootstrap}</li>
                                         </ul>
                                         <div className="icon flex">
