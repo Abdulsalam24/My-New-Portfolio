@@ -16,11 +16,10 @@ const Contact = () => {
                 <h1>
                     Get In Touch
                 </h1>
-                <p>I’m currently looking for any new opportunities, my inbox is always open.
-                    Whether you have a question or you want to hire me
+                <p>I'm currently on the lookout for new opportunities, and my inbox is always open. Whether you have a question or want to hire me, please contact me.
                 </p>
                 <div className="btn">
-                <a href="mailto:abdulsalammohammed586686@gmail.com"><button> Say Hello ヅ</button></a>
+                    <a href="mailto:abdulsalammohammed586686@gmail.com"><button> Contact me</button></a>
                 </div>
             </div>
         </section>

@@ -11,8 +11,8 @@ import project4 from '../../asset/img/project4.png'
 export const ProjectData = [
     {
         description: 'Movie App',
-        title: 'House of movies',
-        writeUp: 'This is one of my favorite project because i love watching movies. It is a movie where you can search for any movie and check the details. I used context Api to handle the state and framer motion for animation.',
+        title: 'Movie App',
+        writeUp: "This is one of my favorite projects because I like watching movies. It is a movie website where you can search for and view movie information. I handled the state using the context Api.",
         html: 'Html',
         scss: 'Scss',
         react: 'React',
@@ -24,8 +24,8 @@ export const ProjectData = [
     },
     {
         description: 'Github',
-        title: 'Github Finder',
-        writeUp: 'This is a site I built using context Api and useReducer for the state management. I used Github REST Api for this project. The purpose this website serves is to make Github profile more accessible and easiy to get',
+        title: 'Github Search',
+        writeUp: 'This is a website that I created using context Api and useReducer for state management. For this project, I used the Github REST Api. The goal of this website is to make Github profiles more accessible and easy to obtain.',
         html: 'Html',
         scss: 'taiwlind',
         react: 'React',
@@ -38,7 +38,7 @@ export const ProjectData = [
     {
         description: 'Product Marketing',
         title: 'Prosalety',
-        writeUp: 'This is a web application i built for upload of product that are for sale. You can also be contacted if soemone want to make enquiry about your product. This site was built using firbase database and React to build the UI and functionality',
+        writeUp: 'This is a web application that I created for uploading for-sale products. You can also be contacted if someone is interested in your product. The UI and functionality of this site were created using the firebase database and React.',
         html: 'Html',
         scss: 'Scss',
         react: 'React',
@@ -66,7 +66,7 @@ export const ProjectData = [
     {
         description: 'Massage Page',
         title: 'Osteopathie',
-        writeUp: 'Osteopathie is simple massage website i found of the internet. So i decided to recreate it with my code.It was fun to build ヅ',
+        writeUp: 'Osteopathie is a basic massage website that I discovered on the internet. So I decided to redo it using my code. It was a lot of fun to construct.',
         html: 'Html',
         scss: 'Scss',
         react: 'React',
