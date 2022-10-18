@@ -3,11 +3,11 @@ import React from 'react'
 const About = () => {
   return (
     <section id='about'>
-      <div className="heading" data-aos='fade-up'>
+      <div className="heading">
         <span className="green">
           0.1</span> <h4>About Me</h4>
       </div>
-      <div className="abt max-width" data-aos='fade-up' data-aos-duration="3000">
+      <div className="abt max-width">
         <div className="abt-text">
           <div className="text">
 

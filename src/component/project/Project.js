@@ -10,7 +10,7 @@ import { ProjectData } from './projectData'
 const Project = () => {
     return (
         <section id='project'>
-            <div className="heading" data-aos="fade-up">
+            <div className="heading">
                 <span className="green">
                     0.2</span>
                 <h4>Project</h4>
@@ -21,9 +21,6 @@ const Project = () => {
                     {
                         ProjectData.map((item) => (
                             <div
-                                data-aos="fade-right"
-                                data-aos-easing="linear"
-                                data-aos-duration="1000"
                                 key={item.title}
                                 className='item'
                                 style={{

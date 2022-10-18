@@ -7,21 +7,21 @@ const Header = () => {
             <div className="home max-width">
                 <div className="home-text">
                     <span className="name green">
-                        Hi, my name is
+                        Hello, my name is
                     </span>
                     <h2>Abdulsalam Mohammed</h2>
-                    <p className='leading-p'>I, am a <Typical
+                    <p className='leading-p'>I am a <Typical
                         className='typical'
                         loop={1}
                         wrapper="b"
                         steps={[
-                            'Frontend Developer', 2000
+                            'Front End Developer', 2000
                         ]}
                     />
                     </p>
                     <div className="text">
                         <div className="btn">
-                            <a href="#project"><button>Check out my Work</button></a>
+                            <a href="#project"><button>View My Work</button></a>
                         </div>
                     </div>
                 </div>

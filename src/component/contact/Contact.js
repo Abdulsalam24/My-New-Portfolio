@@ -4,10 +4,7 @@ const Contact = () => {
     return (
         <section id='contact'>
             <div
-                className="contact max-width"
-                data-aos="fade-up"
-                data-aos-easing="linear"
-                data-aos-duration="1000">
+                className="contact max-width">
                 <h6>
                     <span className='green'>
                         03. What’s Next?
