@@ -14,8 +14,6 @@ const About = () => {
             <p>
               I am a Frontend Developer with <span className="green">two years of experience</span> creating user interfaces with clean, reusable code using React. I create a web application with the most recent tools and have prior experience <span className="green">working in a team</span>. I am constantly striving to build and advance a project as quickly as possible. When I'm working on a project, I'm eager and passionate about making sure you're completely satisfied with the service I provide.
 
-              Here are some of the current tools I'm using:
-
             </p>
             <p>Here are some of the tools I'm currently using:</p>
             <ul className="tech flex">
