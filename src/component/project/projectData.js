@@ -45,7 +45,7 @@ export const ProjectData = [
         git: 'git',
         review: 'Review',
         img: project8,
-        link: 'https://visqorium-mainsite-dev.netlify.app/',
+        link: 'https://visqourium-mainsite-dev.netlify.app/',
         gitHub: 'https://github.com/Visqorium-Labs/visqoriumlabs-main-site'
     },
     {
