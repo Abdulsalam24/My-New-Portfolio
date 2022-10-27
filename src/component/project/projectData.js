@@ -19,7 +19,7 @@ export const ProjectData = [
         git: 'git',
         review: 'Review',
         img: project2,
-        link: 'https://movie-app-peach-omega.vercel.app/',
+        link: 'https://movieappabd.netlify.app/',
         gitHub: 'https://github.com/Abdulsalam24/movie-app'
     },
     {
@@ -32,7 +32,7 @@ export const ProjectData = [
         git: 'git',
         review: 'Review',
         img: project3,
-        link: 'https://github-finder-zeta-five.vercel.app/',
+        link: 'https://github-finderabd.netlify.app/',
         gitHub: 'https://github.com/Abdulsalam24/Github-Finder'
     },
     {
