@@ -2,7 +2,7 @@ import React from 'react'
 
 const Contact = () => {
     return (
-        <section id='contact'>
+        <section id='contact' data-aos="fade-up">
             <div
                 className="contact max-width">
                 <h6>

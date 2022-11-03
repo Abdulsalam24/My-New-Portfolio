@@ -10,12 +10,12 @@ import { ProjectData } from './projectData'
 const Project = () => {
     return (
         <section id='project'>
-            <div className="heading">
+            <div className="heading" data-aos="fade-right">
                 <span className="green">
                     0.2</span>
                 <h4>Project</h4>
             </div>
-            <div className="project max-width">
+            <div className="project max-width" data-aos="fade-up">
                 <div className="project-text"></div>
                 <div className="project-items flex">
                     {

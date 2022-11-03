@@ -3,11 +3,11 @@ import React from 'react'
 const About = () => {
   return (
     <section id='about'>
-      <div className="heading">
+      <div className="heading" data-aos="fade-right">
         <span className="green">
           0.1</span> <h4>About Me</h4>
       </div>
-      <div className="abt max-width">
+      <div className="abt max-width" data-aos="fade-up">
         <div className="abt-text">
           <div className="text">
 
@@ -20,12 +20,12 @@ const About = () => {
 
               <ul>
                 <li>HTML5</li>
-                <li>CSS3/Scss</li>
-                <li>JavaScript/ES6  </li>
+                <li>CSS3 / Scss</li>
+                <li>Tailwind CSS</li>
               </ul>
               <ul>
+                <li>JavaScript / ES6  </li>
                 <li>React.js</li>
-                <li>Tailwind CSS</li>
                 <li>Git and Github</li>
               </ul>
             </ul>
