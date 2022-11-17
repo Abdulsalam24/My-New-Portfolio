@@ -25,7 +25,7 @@ const About = () => {
               </ul>
               <ul>
                 <li>JavaScript / ES6  </li>
-                <li>React.js</li>
+                <li>React.js | Next.js</li>
                 <li>Git and Github</li>
               </ul>
             </ul>

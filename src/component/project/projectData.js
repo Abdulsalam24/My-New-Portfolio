@@ -3,7 +3,7 @@ import project9 from '../../asset/img/project9.PNG'
 import project1 from '../../asset/img/project1.PNG'
 import project2 from '../../asset/img/project2.PNG'
 import project3 from '../../asset/img/project3.png'
-import project4 from '../../asset/img/project4.png'
+import project4 from '../../asset/img/project4.jpg'
 
 
 
@@ -35,6 +35,20 @@ export const ProjectData = [
         link: 'https://github-finderabd.netlify.app/',
         gitHub: 'https://github.com/Abdulsalam24/Github-Finder'
     },
+    ,
+    {
+        description: 'Shoppy',
+        title: 'Ecommerce site',
+        writeUp: 'Ecommerce is one of the most significant websites to develop because of the features it includes on the front end. I set out to build this while learning next.js for this reason. The checkout payment was made using Stripe, and the UI was replicated from Frontend Mentor.',
+        html: 'Html',
+        scss: 'tailwind',
+        react: 'Next.js',
+        git: 'git',
+        review: 'Review',
+        img: project4,
+        link: 'https://abdosteopathiy.netlify.app/',
+        gitHub: 'https://github.com/Abdulsalam24/My-OSTEOPATHY-react-project'
+    },
     {
         description: 'Visqorium',
         title: 'Visqorium-Labs',
@@ -47,19 +61,6 @@ export const ProjectData = [
         img: project8,
         link: 'https://visqourium-mainsite-dev.netlify.app/',
         gitHub: 'https://github.com/Visqorium-Labs/visqoriumlabs-main-site'
-    },
-    {
-        description: 'Massage Page',
-        title: 'Osteopathie',
-        writeUp: 'Osteopathie is a basic massage website that I discovered on the internet. So I decided to redo it using my code. It was a lot of fun to construct.',
-        html: 'Html',
-        scss: 'Scss',
-        react: 'React',
-        git: 'git',
-        review: 'Review',
-        img: project1,
-        link: 'https://abdosteopathiy.netlify.app/',
-        gitHub: 'https://github.com/Abdulsalam24/My-OSTEOPATHY-react-project'
     }
 
 ]

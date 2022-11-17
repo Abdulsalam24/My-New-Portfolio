@@ -23,6 +23,7 @@ const NavBar = () => {
     const scroll = () => {
       if (window.scroll) {
         setMobile(mobile)
+        console.log('first')
       }
     }
 
@@ -30,6 +31,13 @@ const NavBar = () => {
   }, [])
 
   const screen = window.screen.width
+
+  
+  window.addEventListener("resize", () => {
+    if(screen > 700){
+    setMobile(true)
+    }
+  })
 
   return (
     <nav>
@@ -39,7 +47,7 @@ const NavBar = () => {
             <h1><a href="#home">ABD</a></h1>
           </div>
 
-          
+
           <div className={mobile ? 'nav-link' : 'nav-mobile nav-link'} onClick={() => screen >= 770 ? setMobile(mobile) : setMobile(!mobile)}>
             <ul className='list'>
               <li><a href='#about'><span className="green">0.1 </span>About</a></li>
