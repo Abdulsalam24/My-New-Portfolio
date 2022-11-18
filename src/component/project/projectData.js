@@ -77,5 +77,4 @@ export const ProjectData = [
         gitHub: 'https://github.com/Visqorium-Labs/visqoriumlabs-main-site'
     }
 
-
 ]
