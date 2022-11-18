@@ -23,7 +23,6 @@ const NavBar = () => {
     const scroll = () => {
       if (window.scroll) {
         setMobile(mobile)
-        console.log('first')
       }
     }
 
@@ -32,7 +31,6 @@ const NavBar = () => {
 
   const screen = window.screen.width
 
-  
   window.addEventListener("resize", () => {
     if(screen > 700){
     setMobile(true)

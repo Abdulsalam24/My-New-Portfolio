@@ -1,6 +1,6 @@
 import project8 from '../../asset/img/project8.jpg'
-import project9 from '../../asset/img/project9.PNG'
-import project1 from '../../asset/img/project1.PNG'
+import project9 from '../../asset/img/project9.jpg'
+// import project1 from '../../asset/img/project1.PNG'
 import project2 from '../../asset/img/project2.PNG'
 import project3 from '../../asset/img/project3.png'
 import project4 from '../../asset/img/project4.jpg'
@@ -8,6 +8,7 @@ import project4 from '../../asset/img/project4.jpg'
 
 
 
+// eslint-disable-next-line no-sparse-arrays
 export const ProjectData = [
     {
         description: 'Movie App',
@@ -50,6 +51,19 @@ export const ProjectData = [
         gitHub: 'https://github.com/Abdulsalam24/My-OSTEOPATHY-react-project'
     },
     {
+        description: 'GPT3',
+        title: 'GPT3 UI',
+        writeUp: "This website was my quickest project, taking me only 24 hours to complete. It is a static one page site. I chose to make it since it has a lot of pieces and a wonderful design. It's responsive, and I obtained the figma design on the internet.",
+        html: 'Html',
+        scss: 'Tailwind',
+        react: 'React',
+        git: 'git',
+        review: 'Review',
+        img: project9,
+        link: 'https://gpt-3-abd.vercel.app',
+        gitHub: 'https://github.com/Abdulsalam24/gpt-3-abd'
+    },
+    {
         description: 'Visqorium',
         title: 'Visqorium-Labs',
         writeUp: 'This is a blockchain-based enterprise web application designed to power Next-Generation Content Creation. It was created by myself and a team for the Visqorium company. I joined the team, finished the responsive, and debugged the code.',
@@ -62,5 +76,6 @@ export const ProjectData = [
         link: 'https://visqourium-mainsite-dev.netlify.app/',
         gitHub: 'https://github.com/Visqorium-Labs/visqoriumlabs-main-site'
     }
+
 
 ]
