@@ -47,7 +47,7 @@ export const ProjectData = [
         git: 'git',
         review: 'Review',
         img: project4,
-        link: 'https://abdosteopathiy.netlify.app/',
+        link: 'https://abdecommerce-nextjs.vercel.app/',
         gitHub: 'https://github.com/Abdulsalam24/My-OSTEOPATHY-react-project'
     },
     {
