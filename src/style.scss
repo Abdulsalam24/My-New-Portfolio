@@ -24,13 +24,12 @@ html {
   @media (min-width: 650px) {
     font-size: 19px;
   }
-
 }
 
 body {
   background-color: var(--bg-color);
-  color: white;
   line-height: 1.4;
+  color:var(--light-text-color);
 }
 
 ul,
@@ -385,7 +384,7 @@ header {
           position: absolute;
           background-color: #112240;
           height: 100%;
-          opacity: 0.75;
+          opacity: 0.5;
           width: 100%;
           z-index: -1;
           top: 0;
@@ -395,27 +394,30 @@ header {
           .item-text {
             padding: 30px 20px;
             .text {
+              display: none;
               p {
                 font-size: 1em;
-                color: white;
+                color: var(--text-color);
               }
             }
             .green {
               font-size: 1.1em;
+              display: none;
             }
             h5 {
-              color: white;
+              color: var(--light-text-color);
               margin: 10px 0;
             }
             .lang-type {
-              gap: 20px;
+              font-size: 10px;
+              gap: 5px;
               margin: 5px 0 10px 0;
               li {
-                color: white;
+                color: var(--light-text-color);
               }
             }
             .icon {
-              font-size: 1.2rem;
+              font-size: 1.5rem;
               gap: 20px;
               a {
                 &:hover {
@@ -482,7 +484,7 @@ footer {
 
 //darkmode
 
-.darkmode{
+.darkmode {
   // background-color: rgb(197, 197, 197);
   // background-image: url('./asset/img/bg.png');
   // background-color: none;
@@ -558,9 +560,6 @@ footer {
           }
         }
 
-        .nav-mobile {
-          display: none;
-        }
         .menu {
           display: none;
         }
@@ -620,6 +619,8 @@ footer {
             .item-text {
               padding: 0;
               .text {
+              display: block;
+
                 background-color: #112240;
                 padding: 30px;
               }
@@ -635,7 +636,12 @@ footer {
                 justify-content: flex-end;
                 gap: 10px;
               }
+              
+              .icon{
+                font-size: 1.3rem;
+              }
               .lang-type {
+                font-size: 1.1rem;
                 margin: 5px 0;
               }
             }
@@ -771,7 +777,6 @@ footer {
               }
             }
           }
- 
         }
       }
     }

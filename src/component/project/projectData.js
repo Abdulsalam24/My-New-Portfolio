@@ -1,6 +1,5 @@
-import project8 from '../../asset/img/project8.jpg'
+import project7 from '../../asset/img/project7.jpg'
 import project9 from '../../asset/img/project9.jpg'
-// import project1 from '../../asset/img/project1.PNG'
 import project2 from '../../asset/img/project2.PNG'
 import project3 from '../../asset/img/project3.png'
 import project4 from '../../asset/img/project4.jpg'
@@ -22,6 +21,19 @@ export const ProjectData = [
         img: project2,
         link: 'https://movieappabd.netlify.app/',
         gitHub: 'https://github.com/Abdulsalam24/movie-app'
+    },
+    {
+        description: 'Musical challenge',
+        title: 'Music Player',
+        writeUp: 'I took part in this Twitter challenge. I was unable to locate a reliable music api, so I made a local music list. It was enjoyable to build.',
+        html: 'Html',
+        scss: 'Tailwind',
+        react: 'React',
+        git: 'git',
+        review: 'Review',
+        img: project7,
+        link: 'https://music-play-psi.vercel.app',
+        gitHub: 'https://github.com/Abdulsalam24/Music-Play'
     },
     {
         description: 'Github',
@@ -62,19 +74,5 @@ export const ProjectData = [
         img: project9,
         link: 'https://gpt-3-abd.vercel.app',
         gitHub: 'https://github.com/Abdulsalam24/gpt-3-abd'
-    },
-    {
-        description: 'Visqorium',
-        title: 'Visqorium-Labs',
-        writeUp: 'This is a blockchain-based enterprise web application designed to power Next-Generation Content Creation. It was created by myself and a team for the Visqorium company. I joined the team, finished the responsive, and debugged the code.',
-        html: 'Html',
-        scss: 'Scss',
-        react: 'React',
-        git: 'git',
-        review: 'Review',
-        img: project8,
-        link: 'https://visqourium-mainsite-dev.netlify.app/',
-        gitHub: 'https://github.com/Visqorium-Labs/visqoriumlabs-main-site'
     }
-
 ]
