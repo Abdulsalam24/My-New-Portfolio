@@ -4,15 +4,12 @@ import project2 from '../../asset/img/project2.PNG'
 import project3 from '../../asset/img/project3.png'
 import project4 from '../../asset/img/project4.jpg'
 
-
-
-
 // eslint-disable-next-line no-sparse-arrays
 export const ProjectData = [
     {
         description: 'Movie App',
         title: 'Movie App',
-        writeUp: "This is one of my favorite projects because I like watching movies. It is a movie website where you can search for and view movie information. I handled the state using the context Api.",
+        writeUp: "This is one of my favorite projects because I enjoy watching movies. It is a movie website that enables users to search for and access information about movies. To manage the project's state, I utilized the Context API.",
         html: 'Html',
         scss: 'Scss',
         react: 'React',
@@ -52,7 +49,7 @@ export const ProjectData = [
     {
         description: 'Shoppy',
         title: 'Ecommerce site',
-        writeUp: 'Ecommerce is one of the most significant websites to develop because of the features it includes on the front end. I set out to build this while learning next.js for this reason. The checkout payment was made using Stripe, and the UI was replicated from Frontend Mentor.',
+        writeUp: 'The features that ecommerce websites have on the frontend makes it one of the most important websites to develop. Because of this, I decided to construct it as I learned next.js. Stripe was utilized for the checkout transaction, and Frontend Mentor was used to duplicate the UI.',
         html: 'Html',
         scss: 'tailwind',
         react: 'Next.js',
@@ -65,7 +62,7 @@ export const ProjectData = [
     {
         description: 'GPT3',
         title: 'GPT3 UI',
-        writeUp: "This website was my quickest project, taking me only 24 hours to complete. It is a static one page site. I chose to make it since it has a lot of pieces and a wonderful design. It's responsive, and I obtained the figma design on the internet.",
+        writeUp: "My quickest project was this website, which I finished in under 24 hours. A static one-page website, It has a lot of pieces and a gorgeous design, which is why I decided to construct it. The figma design was found online, and it is responsive.",
         html: 'Html',
         scss: 'Tailwind',
         react: 'React',
